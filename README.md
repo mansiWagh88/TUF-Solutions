@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 6 | 0 | 0 | `2026-09-02` |
+| **7** | 7 | 0 | 0 | `2026-09-02` |
 
 ---
 
@@ -20,6 +20,7 @@
 | 0004 | [Lower Bound](./DSA/Binary-Search/lower-bound) | [JAVA](./DSA/Binary-Search/lower-bound/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
 | 0005 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
 | 0006 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `DSA` / `Arrays` |
+| 0007 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟢 Easy | `DSA` / `Binary-Search` |
 
 ---
 
