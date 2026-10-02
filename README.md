@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **36** | 13 | 16 | 7 | `2026-09-30` |
+| **37** | 13 | 17 | 7 | `2026-10-02` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (36)
+### DSA (37)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -42,16 +42,17 @@
 | 0024 | [Minimize Max Distance to Gas Station](./DSA/Binary-Search/minimise-max-distance-to-gas-stations) | [JAVA](./DSA/Binary-Search/minimise-max-distance-to-gas-stations/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-26` |
 | 0025 | [Minimum days to make M bouquets](./DSA/Binary-Search/minimum-days-to-make-m-bouquets) | [JAVA](./DSA/Binary-Search/minimum-days-to-make-m-bouquets/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-21` |
 | 0026 | [Painter's Partition](./DSA/Binary-Search/painters-partition) | [JAVA](./DSA/Binary-Search/painters-partition/solution.java) | 🔴 Hard | `Binary-Search` | `2026-09-23` |
-| 0027 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-28` |
-| 0028 | [Search in a 2D Matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-28` |
-| 0029 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-21` |
-| 0030 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-ii) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-21` |
-| 0031 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-21` |
-| 0032 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-21` |
-| 0033 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-21` |
-| 0034 | [309. Split array - largest sum](./DSA/Arrays/split-array---largest-sum) | [JAVA](./DSA/Arrays/split-array---largest-sum/solution.java) | 🔴 Hard | `Arrays` | `2026-09-23` |
-| 0035 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `Arrays` | `2026-09-21` |
-| 0036 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-21` |
+| 0027 | [Pow(x,n)](./DSA/Recursion/pow(x%252cn)) | [JAVA](./DSA/Recursion/pow(x%252cn)/solution.java) | 🟡 Medium | `Recursion` | `2026-10-02` |
+| 0028 | [Search in 2D matrix - II](./DSA/Binary-Search/search-in-2d-matrix-ii) | [JAVA](./DSA/Binary-Search/search-in-2d-matrix-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-28` |
+| 0029 | [Search in a 2D Matrix](./DSA/Binary-Search/search-in-a-2d-matrix) | [JAVA](./DSA/Binary-Search/search-in-a-2d-matrix/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-28` |
+| 0030 | [Search in rotated sorted array-I](./DSA/Binary-Search/search-in-rotated-sorted-array-i) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-i/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-21` |
+| 0031 | [Search in rotated sorted array-II](./DSA/Binary-Search/search-in-rotated-sorted-array-ii) | [JAVA](./DSA/Binary-Search/search-in-rotated-sorted-array-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-21` |
+| 0032 | [Search insert position](./DSA/Binary-Search/search-insert-position) | [JAVA](./DSA/Binary-Search/search-insert-position/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-21` |
+| 0033 | [Search X in sorted array](./DSA/Binary-Search/search-x-in-sorted-array) | [JAVA](./DSA/Binary-Search/search-x-in-sorted-array/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-21` |
+| 0034 | [Single element in sorted array](./DSA/Binary-Search/single-element-in-sorted-array) | [JAVA](./DSA/Binary-Search/single-element-in-sorted-array/solution.java) | 🟡 Medium | `Binary-Search` | `2026-09-21` |
+| 0035 | [309. Split array - largest sum](./DSA/Arrays/split-array---largest-sum) | [JAVA](./DSA/Arrays/split-array---largest-sum/solution.java) | 🔴 Hard | `Arrays` | `2026-09-23` |
+| 0036 | [Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [JAVA](./DSA/Arrays/union-of-two-sorted-arrays/solution.java) | 🟢 Easy | `Arrays` | `2026-09-21` |
+| 0037 | [Upper Bound](./DSA/Binary-Search/upper-bound) | [JAVA](./DSA/Binary-Search/upper-bound/solution.java) | 🟢 Easy | `Binary-Search` | `2026-09-21` |
 
 ---
 
